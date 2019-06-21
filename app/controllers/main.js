@@ -2,7 +2,7 @@ $(document).ready(function() {
   var nguoiDungService = new NguoiDungService();
 
   function themNguoiDung(){
-    console.log("themNguoiDung");
+    console.log("themNguoiDung2");
     
   }
 
